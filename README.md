@@ -1,2 +1,4 @@
 # Semiconductor-Optoelectronic-Devices-assignmnets
-This resiprocity contains my assignments on the graduate level course PHYS-675 Semiconductor Optoelectronic Devices.
+Course page: [PHYS-675](https://www.physics.uoc.gr/en/courses/110)
+
+More info soon...
